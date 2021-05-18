@@ -11,7 +11,7 @@
     "status"
   ],
   "author": "3aTo4Ka",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bytenode": "^1.3.2",
     "colors": "^1.4.0",
