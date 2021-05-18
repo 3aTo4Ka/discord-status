@@ -1,0 +1,22 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "discord status",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "status"
+  ],
+  "author": "3aTo4Ka",
+  "license": "ISC",
+  "dependencies": {
+    "bytenode": "^1.3.2",
+    "colors": "^1.4.0",
+    "fs": "*",
+    "request": "^2.88.2",
+    "safe": "^0.4.7"
+  }
+}
